@@ -415,4 +415,4 @@ local function SendChatMessage(message)
 end
 
 -- Send the chat message
-SendChatMessage("Super Ring Parts V1 By Ericksszzx")
+-- SendChatMessage("")
